@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\source\\repos\\Ejercicio .NET MAUI MVVM 2\\Ejercicio-.NET-MAUI-MVVM-2\\AreaCirculoAppMvvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B421CA2-6B18-4396-84DD-756CEDCDD10E}|AreaCirculoAppMvvm.csproj|c:\\users\\manue\\source\\repos\\ejercicio .net maui mvvm 2\\ejercicio-.net-maui-mvvm-2\\areacirculoappmvvm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B421CA2-6B18-4396-84DD-756CEDCDD10E}|AreaCirculoAppMvvm.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B421CA2-6B18-4396-84DD-756CEDCDD10E}|AreaCirculoAppMvvm.csproj|c:\\users\\manue\\source\\repos\\ejercicio .net maui mvvm 2\\ejercicio-.net-maui-mvvm-2\\areacirculoappmvvm\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B421CA2-6B18-4396-84DD-756CEDCDD10E}|AreaCirculoAppMvvm.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Ejercicio .NET MAUI MVVM 2\\Ejercicio-.NET-MAUI-MVVM-2\\AreaCirculoAppMvvm\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Ejercicio .NET MAUI MVVM 2\\Ejercicio-.NET-MAUI-MVVM-2\\AreaCirculoAppMvvm\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T04:25:58.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Ejercicio .NET MAUI MVVM 2\\Ejercicio-.NET-MAUI-MVVM-2\\AreaCirculoAppMvvm\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Ejercicio .NET MAUI MVVM 2\\Ejercicio-.NET-MAUI-MVVM-2\\AreaCirculoAppMvvm\\AppShell.xaml*",
+              "RelativeToolTip": "AppShell.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T04:24:40.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
